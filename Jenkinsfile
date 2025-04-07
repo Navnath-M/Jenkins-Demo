@@ -10,7 +10,7 @@ pipeline {
         }
         stage('Deploy Python') {
             steps {
-                sh 'hello.py'
+                bat 'python hello.py'
                 
             }
         }
