@@ -1,4 +1,4 @@
-length = 6
+length = 5
 width = 3
 
 # Calculate the area
